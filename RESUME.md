@@ -52,3 +52,15 @@ Responsibilities:
   - Deployment configuration (in progress)
 
 # Additional info
+
+## Languages
+- English
+- Ukrainian
+
+## Education
+- Lviv Polytechnic National University 2022 - 2026
+- Self taught learning with The Odin Project
+
+## The most important section
+
+<img  src="./git_meme.gif">
