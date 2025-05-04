@@ -192,14 +192,14 @@ body {
   margin-bottom: 20px;
 }
 
-.experiences__company-header-durability {
+.experiences-header-durability {
   color: var(--durability-text-color);
   text-align: left;
   margin-bottom: 10px;
   font-size: 15px;
 }
 
-.experiences__company-header-name {
+.experiences-header-name {
   color: var(--primary-text-color);
   text-decoration-color: var(--text-decoration-color);
   text-decoration-line: underline;
@@ -207,25 +207,25 @@ body {
   margin-bottom: 20px;
 }
 
-.experiences__company-project {
+.experiences-project {
   margin-left: 15px;
   margin-bottom: 25px;
 }
 
-.experiences__company-project-role {
+.experiences-project-role {
   color: var(--durability-text-color);
   text-align: left;
   margin-bottom: 10px;
   font-size: 15px;
 }
 
-.experiences__company-project-name {
+.experiences-project-name {
   color: var(--primary-text-color);
   text-align: left;
   margin-bottom: 10px;
 }
 
-.experiences__company-project-responsibilities {
+.experiences-project-responsibilities {
   color: var(--secondary-text-color);
   padding-left: 20px;
 }
