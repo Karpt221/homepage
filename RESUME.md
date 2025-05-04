@@ -23,4 +23,32 @@ Phone number: +380968080961
 
 # Timeline
 
+1. Project: History Globe  [Live Demo](https://karpt221.github.io/HistoryGlobe/)
+
+Duration:  november 2024 - december 2024  
+
+Title: interactive map-based history platform with timeline navigation and quiz modules, developed as part of the Erasmus+ AR4EDU initiative.
+
+Description: defined the core logic for timeline slider and interactive map updates. Adapted project scope to focus on world map and quizzes, postponing AR features due to time and technical constraints.
+
+Responsibilities:   
+  - Brainstorming ideas
+  - Prototype development
+
+
+2. Project:  Budgeting app  [GitHub](https://github.com/Karpt221/budgeting-app)  
+
+Duration:  december 2024 - now 
+
+Title: solo full-stack project focused on expense tracking, trend analysis, and budget control.
+
+Description: faced challenges with inconsistent categories state updates and data sync between client and server. Solved this by refining SQL queries logic in API to ensure accurate, real-time budget tracking.  
+
+Responsibilities:   
+  - Database design  
+  - REST API development & testing
+  - React components development
+  - Client & server routing configuration 
+  - Deployment configuration (in progress)
+
 # Additional info
