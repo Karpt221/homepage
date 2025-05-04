@@ -274,3 +274,14 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.merge-btn{
+  padding: 5px;
+}
+.merge-btn:hover{
+  cursor: pointer;
+}
+
+.editor{
+  display: none;
+}
