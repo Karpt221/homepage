@@ -178,6 +178,13 @@ body {
   flex: 1 1 60%;
   margin-right: 50px;
 }
+.experiences__title{
+  font-size: 14px;
+}
+
+.experiences__project-link{
+  font-size: 15px;
+}
 
 .experiences__header {
   color: var(--secondary-text-color);
