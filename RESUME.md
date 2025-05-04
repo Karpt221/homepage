@@ -12,6 +12,15 @@ Telegram username: @IONYCHG
 Email: nche628@gmail.com  
 Phone number: +380968080961  
 
+# Skills
+- Javascript
+- React.js
+- Express.js
+- SQL
+- Problem solving
+- Adaptability
+- Initiative
+
 # Timeline
 
 # Additional info
