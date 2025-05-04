@@ -27,7 +27,7 @@ Phone number: +380968080961
 
 Duration:  november 2024 - december 2024  
 
-Title: interactive map-based history platform with timeline navigation and quiz modules, developed as part of the Erasmus+ AR4EDU initiative.
+Title: Team project under Erasmus+ AR4EDU initiative. Developed interactive map-based history platform with timeline navigation and quiz modules.
 
 Description: defined the core logic for timeline slider and interactive map updates. Adapted project scope to focus on world map and quizzes, postponing AR features due to time and technical constraints.
 
