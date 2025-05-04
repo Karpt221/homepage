@@ -3,7 +3,7 @@ Full name: Mykyta Cherkasov
 Title: student at Lviv Polytechnic National University  
 
 Summary:   
-Computer Science student with skills in full-stack JavaScript (React, Node.js, PostgreSQL), building an ML-powered personal finance tool. Proactive in designing practical systems, solving real user challenges, and adapting quickly to new technologies.
+Computer Science student with skills in full-stack JavaScript (React, Node.js, PostgreSQL), planning to build an ML-powered personal finance tool. Interested in designing practical systems, solving real user challenges, and adapting quickly to new technologies.
 
 
 # Contact info
