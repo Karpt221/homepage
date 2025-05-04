@@ -26,6 +26,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  margin-bottom: 15px;
 }
 
 .fv {
@@ -77,6 +78,7 @@ body {
   margin-bottom: 15px;
   text-decoration-color: var(--text-decoration-color);
   text-decoration-line: underline;
+  text-underline-offset: 8px;
 }
 
 .contact-info__sub-header {
